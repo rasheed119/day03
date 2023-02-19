@@ -53,7 +53,7 @@ var resume  = [{
         },{
             "Certificate_2" : "Volunteer in ISRO expo conducted in Francis Xavier engineering college"
         },{
-            "Certificate_3" : "Winter skill training development programme on “Design,Fabrication and demonstration of bike/kart in francis Xavier engineering college"
+            "Certificate_3" : "Winter skill training development programme on Design,Fabrication and demonstration of bike/kart in francis Xavier engineering college"
         }]
 }]
-console.log(resume[0].email)
+
